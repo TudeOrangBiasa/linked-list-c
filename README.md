@@ -46,5 +46,5 @@ Proyek ini adalah implementasi sederhana dari single linked list dalam bahasa C.
     cd linked-list-c
     ```
 
-3. **Ikuti Langkah-langkah Penggunaan**: Ikuti langkah-langkah yang telah dijelaskan di bagian "Cara Menggunakan" untuk menginstall compiler, mengkompilasi, dan menjalankan program.
+3. **Ikuti Langkah-langkah Penggunaan**: Ikuti langkah-langkah yang telah dijelaskan di bagian "Cara Menggunakan" mengkompilasi, dan menjalankan program.
 
