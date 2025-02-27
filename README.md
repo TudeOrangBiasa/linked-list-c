@@ -2,10 +2,7 @@
 
 Proyek ini adalah implementasi sederhana dari single linked list dalam bahasa C. Proyek ini mencakup beberapa fungsi dasar untuk menyisipkan elemen di awal dan akhir linked list serta menampilkan elemen-elemen dari linked list tersebut.
 
-## Tangkapan Layar
-
-Berikut adalah beberapa tangkapan layar dari hasil eksekusi program yang terdapat dalam folder `screenshots`:
-
+## Soal 
 ![Screenshot 1](screenshots/soal-2.png)
 
 ## Struktur Proyek
